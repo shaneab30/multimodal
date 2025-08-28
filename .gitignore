@@ -1,2 +1,6 @@
 dataset
 speech_word_dataset.csv
+ann_early_fusion_model.pth
+best_early_fusion_model.pth
+training_history.csv
+fused_sample.csv
